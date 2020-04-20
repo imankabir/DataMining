@@ -14,7 +14,7 @@ All assignments were implemented using Spark via the pyspark package in Python. 
 <tr>
 <td>1</td>
 <td>Introduction to Spark</td>
-<td>N/A</td>
+<td>MapReduce</td>
 </tr>
 <tr>
 <td>2</td>
